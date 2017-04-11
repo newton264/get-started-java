@@ -1,6 +1,6 @@
 ---
 applications:
- - path: 
+ - path: target/GetStartedJava.war
    domain: mybluemix.net
    name: amg-dev-teaminsights-get-started-java
    host: amg-dev-teaminsights-get-started-java

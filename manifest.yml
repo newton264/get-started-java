@@ -1,7 +1,7 @@
 ---
 applications:
- - name: my-dev-GetStartedJava
-   host: my-dev-GetStartedJava
+ - name: amg-dev-teaminsights-get-started-java
+   host: amg-dev-teaminsights-get-started-java
    random-route: true
    path: target/GetStartedJava.war
    memory: 1G

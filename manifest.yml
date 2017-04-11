@@ -6,4 +6,4 @@ applications:
    path: target/GetStartedJava.war
    memory: 1G
    instances: 1
-   buildpack: buildpack: https://github.com/cloudfoundry-community/jboss-buildpack.git
+   buildpack: https://github.com/cloudfoundry-community/jboss-buildpack.git

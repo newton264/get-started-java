@@ -1,9 +1,9 @@
 ---
 applications:
- - name: amg-dev-teaminsights-get-started-java
+ - path: 
+   domain: mybluemix.net
+   name: amg-dev-teaminsights-get-started-java
    host: amg-dev-teaminsights-get-started-java
-   random-route: true
-   path: target/GetStartedJava.war
    memory: 1G
    instances: 1
    buildpack: https://github.com/cloudfoundry-community/jboss-buildpack.git
